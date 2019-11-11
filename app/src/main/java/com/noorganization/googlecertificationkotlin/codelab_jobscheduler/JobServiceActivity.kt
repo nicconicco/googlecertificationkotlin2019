@@ -1,4 +1,4 @@
-package com.noorganization.googlecertificationkotlin
+package com.noorganization.googlecertificationkotlin.codelab_jobscheduler
 
 import android.app.job.JobInfo
 import android.app.job.JobScheduler
@@ -8,12 +8,12 @@ import android.view.View
 import android.widget.SeekBar
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.noorganization.googlecertificationkotlin.codelab_jobscheduler.NotificationJobService
+import com.noorganization.googlecertificationkotlin.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 private const val JOB_ID = 0
 
-class MainActivity : AppCompatActivity() {
+class JobServiceActivity : AppCompatActivity() {
 
     private var mScheduler: JobScheduler? = null
 
