@@ -16,7 +16,7 @@ Codelabs -> User navigation: Status: NOK\
 Android Developers -> Application fundamentals: Status: NOK\
 Android Developers -> Create a notification: Status: NOK\
 Codelabs -> Notifications: Status: NOK\
-Codelabs -> JobScheduler: Status: [b]OK[/b]\
+Codelabs -> JobScheduler: Status: ##OK\
 Codelabs -> WorkManager (Kotlin): Status: NOK\
 Android Developers -> Shared preferences: Status: NOK\
 Codelabs -> Room, LiveData and ViewModel: Status: NOK\
