@@ -9,7 +9,6 @@ import android.content.Context
 import android.content.Intent
 import android.graphics.Color
 import androidx.core.app.NotificationCompat
-import com.noorganization.googlecertificationkotlin.MainActivity
 import com.noorganization.googlecertificationkotlin.R
 
 class NotificationJobService : JobService() {
@@ -27,7 +26,7 @@ class NotificationJobService : JobService() {
         val contentPendingIntent = PendingIntent.getActivity(
             this,
             0,
-            Intent(this, MainActivity::class.java),
+            Intent(this, JobServiceActivity::class.java),
             PendingIntent.FLAG_UPDATE_CURRENT
         )
 

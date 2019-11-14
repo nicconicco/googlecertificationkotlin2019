@@ -1,4 +1,5 @@
 <resources>
+    <!-- ************ JOB SCHEDULE CODE LAB *********** -->
     <string name="app_name">GoogleCertificationKotlin</string>
     <string name="seconds">%1$d s</string>
     <string name="required_network_type">Network Type Required:</string>
@@ -19,4 +20,26 @@
     <string name="job_scheduled">Job Scheduled, will run when the constraints are met</string>
     <string name="no_constraint_toast">Please set at least one constraint</string>
     <string name="jobs_canceled">Jobs Canceled</string>
+
+    <!-- ************ WORK MANAGER CODE LAB *********** -->
+    <!-- Titles -->
+    <string name="blur_title">Select Blur Amount</string>
+
+    <!-- Buttons -->
+    <string name="select_image">Select Image</string>
+    <string name="go">Go</string>
+    <string name="see_file">See File</string>
+
+    <!-- Content descriptions -->
+    <string name="description_image">The image to blur and save.</string>
+
+    <!-- Blur levels -->
+    <string name="blur_lv_1">A little blurred</string>
+    <string name="blur_lv_2">More blurred</string>
+    <string name="blur_lv_3">The most blurred</string>
+    <string name="cancel_work">Cancel Work</string>
+
+    <!-- Messages -->
+    <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
+        WorkManager Demo -> App Permissions and grant access to Storage.</string>
 </resources>
