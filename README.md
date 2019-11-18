@@ -13,8 +13,12 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 Progress :
 
 ```diff
-+ OK 3
-- NOK 18
++ OK 3 - 15%
+- NOK 18 - 85%
+
+Previsão do exame:
+
+15 de dezembro - 2019
 ```
 
 Tópicos importante:
