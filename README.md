@@ -6,9 +6,13 @@ Projeto realizado e idealizado por:
 Carlos Nicolau Galves - carlos.galves@ifood.com.br<br>
 Caio Ferrari - caio.ferrari@ifood.com.br
 
+---------------------------------------------------------------------------------------------------------------------------
+
 Guide Line:
 
 https://developers.google.com/certification/associate-android-developer/study-guide/
+
+---------------------------------------------------------------------------------------------------------------------------
 
 Progress :
 
@@ -20,7 +24,7 @@ Previsão do exame:
 
 15 de dezembro - 2019
 ```
-
+---------------------------------------------------------------------------------------------------------------------------
 Tópicos importante:
 
 Codelabs -> User navigation: Status: - NOK\
@@ -45,4 +49,4 @@ Codelabs -> Unit tests: Status: NOK\
 Codelabs -> Android Testing -> Unit testing with JUnit and Mockito: Status: NOK\
 Codelabs -> Android Testing -> Espresso for UI testing: Status: NOK
 
-
+---------------------------------------------------------------------------------------------------------------------------
