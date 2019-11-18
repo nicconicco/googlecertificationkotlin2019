@@ -13,24 +13,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".codelab_room_livedata_viewmodel.NewWordActivity"></activity>
         <activity android:name=".codelab_jobscheduler.JobServiceActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
             </intent-filter>
         </activity>
-        <activity android:name=".codelab_workmanager.SelectImageActivity">
+        <activity android:name=".codelab_workmanager.SelectImageActivity" />
+        <activity android:name=".codelab_workmanager.BlurActivity" />
+        <activity android:name="codelab_room_livedata_viewmodel.RoomWordsSampleActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".codelab_workmanager.BlurActivity" />
 
         <service
             android:name=".codelab_jobscheduler.NotificationJobService"
-            android:permission="android.permission.BIND_JOB_SERVICE"/>
+            android:permission="android.permission.BIND_JOB_SERVICE" />
     </application>
 
 </manifest>

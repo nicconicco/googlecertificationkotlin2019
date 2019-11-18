@@ -42,4 +42,11 @@
     <!-- Messages -->
     <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
         WorkManager Demo -> App Permissions and grant access to Storage.</string>
+    <string name="title_activity_room_words_sample">RoomWordsSampleActivity</string>
+
+    <!-- Room, LiveData, ViewModel -->
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+
 </resources>
