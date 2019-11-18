@@ -19,7 +19,7 @@ Codelabs -> Notifications: Status: NOK\
 Codelabs -> JobScheduler: Status: OK\
 Codelabs -> WorkManager (Kotlin): Status: OK\
 Android Developers -> Shared preferences: Status: NOK\
-Codelabs -> Room, LiveData and ViewModel: Status: NOK\
+Codelabs -> Room, LiveData and ViewModel: Status: OK\
 Codelabs -> Repository: Status: NOK\
 Codelabs -> Shared preferences: Status: NOK\
 Codelabs -> App settings: Status: NOK\
