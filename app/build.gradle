@@ -58,6 +58,8 @@ dependencies {
     androidTestImplementation "androidx.test:rules:1.1.0-beta02"
     androidTestImplementation "androidx.test:runner:1.1.0-beta02"
     androidTestImplementation "androidx.work:work-testing:2.1.0"
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.hamcrest:hamcrest-library:1.3'
 
     // Lifecycle
     implementation 'androidx.lifecycle:lifecycle-extensions:2.1.0'

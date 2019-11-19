@@ -49,4 +49,26 @@
     <string name="button_save">Save</string>
     <string name="empty_not_saved">Word not saved because it is empty.</string>
 
+    <!-- Unit Test -->
+    <!-- Hint for first operand EditText -->
+    <string name="type_operand_one_hint">Type Operand 1</string>
+
+    <!-- Hint for second operand EditText -->
+    <string name="type_operand_two_hint">Type Operand 2</string>
+
+    <!-- Button label for add operation -->
+    <string name="add_operation_text">Add</string>
+
+    <!-- Button label for subtract operation -->
+    <string name="sub_operation_text">Sub</string>
+
+    <!-- Button label for divide operation -->
+    <string name="div_operation_text">Div</string>
+
+    <!-- Button label for mul operation -->
+    <string name="mul_operation_text">Mul</string>
+
+    <!-- Message for textview in case of errors  -->
+    <string name="computationError">Error</string>
+
 </resources>
