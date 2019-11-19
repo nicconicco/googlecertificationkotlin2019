@@ -17,8 +17,8 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 Progress :
 
 ```diff
-+ OK 3 - 15%
-- NOK 18 - 85%
++ OK 4 - 20%
+- NOK 17 - 80%
 
 Previsão do exame:
 
@@ -45,7 +45,7 @@ Codelabs -> User navigation: Status: NOK\
 Codelabs -> JobScheduler: Status: NOK\
 Codelabs -> WorkManager (Kotlin): Status: NOK\
 Codelabs -> Add log statements to your app: Status: NOK\
-Codelabs -> Unit tests: Status: NOK\
+Codelabs -> Unit tests: Status: OK\
 Codelabs -> Android Testing -> Unit testing with JUnit and Mockito: Status: NOK\
 Codelabs -> Android Testing -> Espresso for UI testing: Status: NOK
 
