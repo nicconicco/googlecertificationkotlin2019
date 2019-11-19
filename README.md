@@ -6,20 +6,35 @@ Projeto realizado e idealizado por:
 Carlos Nicolau Galves - carlos.galves@ifood.com.br<br>
 Caio Ferrari - caio.ferrari@ifood.com.br
 
+---------------------------------------------------------------------------------------------------------------------------
+
 Guide Line:
 
 https://developers.google.com/certification/associate-android-developer/study-guide/
 
+---------------------------------------------------------------------------------------------------------------------------
+
+Progress :
+
+```diff
++ OK 3 - 15%
+- NOK 18 - 85%
+
+Previsão do exame:
+
+15 de dezembro - 2019
+```
+---------------------------------------------------------------------------------------------------------------------------
 Tópicos importante:
 
-Codelabs -> User navigation: Status: NOK\
-Android Developers -> Application fundamentals: Status: NOK\
+Codelabs -> User navigation: Status: - NOK\
+Android Developers -> Application fundamentals: Status: - NOK\
 Android Developers -> Create a notification: Status: NOK\
 Codelabs -> Notifications: Status: NOK\
 Codelabs -> JobScheduler: Status: OK\
 Codelabs -> WorkManager (Kotlin): Status: OK\
 Android Developers -> Shared preferences: Status: NOK\
-Codelabs -> Room, LiveData and ViewModel: Status: NOK\
+Codelabs -> Room, LiveData and ViewModel: Status: OK\
 Codelabs -> Repository: Status: NOK\
 Codelabs -> Shared preferences: Status: NOK\
 Codelabs -> App settings: Status: NOK\
@@ -33,3 +48,5 @@ Codelabs -> Add log statements to your app: Status: NOK\
 Codelabs -> Unit tests: Status: NOK\
 Codelabs -> Android Testing -> Unit testing with JUnit and Mockito: Status: NOK\
 Codelabs -> Android Testing -> Espresso for UI testing: Status: NOK
+
+---------------------------------------------------------------------------------------------------------------------------
