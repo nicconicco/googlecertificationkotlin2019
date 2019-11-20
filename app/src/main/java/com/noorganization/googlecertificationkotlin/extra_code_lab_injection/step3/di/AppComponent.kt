@@ -1,14 +1,15 @@
 package com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.di
 
 import android.content.Context
-import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.di.subcomponent.LoginComponent
+import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.di.subcomponent.login.LoginComponent
+import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.di.subcomponent.login.module.LoginModule
 import dagger.BindsInstance
 import dagger.Component
 import javax.inject.Singleton
 
 @Singleton
 // Definition of a Dagger component that adds info from the different modules to the graph
-@Component()
+@Component(modules = [AppSubcomponents::class, LoginModule::class])
 interface AppComponent {
 
     // Factory to create instances of the AppComponent

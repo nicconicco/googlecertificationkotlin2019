@@ -16,7 +16,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".extra_code_lab_injection.step3.LoginDaggerActivity" />
+        <activity android:name=".extra_code_lab_injection.step3.presentation.LoginDaggerActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".extra_code_lab_injection.step1.CarInjectNativeActivity" />
         <activity android:name=".code_lab_unit_test.UnitTestCalculatorActivity" />
         <activity android:name=".codelab_room_livedata_viewmodel.NewWordActivity" />
@@ -27,13 +33,7 @@
         </activity>
         <activity android:name=".codelab_workmanager.SelectImageActivity" />
         <activity android:name=".codelab_workmanager.BlurActivity" />
-        <activity android:name="codelab_room_livedata_viewmodel.RoomWordsSampleActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name="codelab_room_livedata_viewmodel.RoomWordsSampleActivity"/>
 
         <service
             android:name=".codelab_jobscheduler.NotificationJobService"
