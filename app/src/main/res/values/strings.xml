@@ -70,5 +70,7 @@
 
     <!-- Message for textview in case of errors  -->
     <string name="computationError">Error</string>
+    <string name="engine">Engine</string>
+    <string name="car">Car</string>
 
 </resources>
