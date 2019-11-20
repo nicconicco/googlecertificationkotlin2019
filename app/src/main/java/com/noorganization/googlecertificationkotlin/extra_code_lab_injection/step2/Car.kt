@@ -2,7 +2,5 @@ package com.noorganization.googlecertificationkotlin.extra_code_lab_injection.st
 
 
 class Car(private val model: ModelCar) {
-    fun showModelCar() : String {
-        return model.getModel()
-    }
+    fun showModelCar() = model.getModel()
 }
