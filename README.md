@@ -14,7 +14,7 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-### Progress :
+### Progress:
 
 ```diff
 + OK 4 - 20%
@@ -25,6 +25,7 @@ Previsão do exame:
 15 de dezembro - 2019
 ```
 ---------------------------------------------------------------------------------------------------------------------------
+
 ### Tópicos importante:
 
 [Codelabs -> Unit tests](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0) : OK\
@@ -51,3 +52,7 @@ Previsão do exame:
 [Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : NOK\
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+## Extras:
+
+[Codelab sobre DI no Android ] - medium.com/@nicolaugalves daqui uns dias.
