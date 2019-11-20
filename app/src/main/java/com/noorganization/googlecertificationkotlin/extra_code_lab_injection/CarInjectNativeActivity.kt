@@ -17,6 +17,6 @@ class CarInjectNativeActivity : AppCompatActivity() {
         // Com Injecao nativa
         val engine = Engine()
         val carInjected = CarInjectedNative(engine)
-        car.start()
+        carInjected.start()
     }
 }
