@@ -4,6 +4,37 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".extra_code_lab_injection.step3.LoginDaggerActivity">
+    android:background="@android:color/holo_orange_light"
+    tools:context=".extra_code_lab_injection.step1.CarInjectNativeActivity">
+
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@android:color/holo_green_light"
+        android:gravity="center"
+        android:text="@string/app_component"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="100dp" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="120dp"
+        android:background="@android:color/darker_gray"
+        android:gravity="center"
+        android:text="@string/context"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

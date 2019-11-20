@@ -72,5 +72,7 @@
     <string name="computationError">Error</string>
     <string name="engine">Engine</string>
     <string name="car">Car</string>
+    <string name="app_component">AppComponent</string>
+    <string name="context">Context</string>
 
 </resources>
