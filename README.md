@@ -30,7 +30,7 @@ Previsão do exame:
 [Codelabs -> Unit tests](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0) : OK\
 [Codelabs -> JobScheduler](https://codelabs.developers.google.com/codelabs/android-training-job-scheduler/index.html#0) : OK\
 [Codelabs -> WorkManager](https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html#11) : OK\
-[Codelabs-> Room, LiveData and ViewModel](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html#0) : OK\
+[Codelabs-> Room, LiveData and ViewModel](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html#0) : OK
 
 ---
 
