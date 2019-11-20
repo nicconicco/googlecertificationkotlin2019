@@ -74,5 +74,7 @@
     <string name="car">Car</string>
     <string name="app_component">AppComponent</string>
     <string name="context">Context</string>
+    <string name="login_component">Login Component</string>
+    <string name="login_component_factory">Login Component Factory</string>
 
 </resources>

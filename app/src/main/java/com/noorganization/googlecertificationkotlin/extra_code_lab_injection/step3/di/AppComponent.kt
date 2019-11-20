@@ -1,6 +1,7 @@
 package com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.di
 
 import android.content.Context
+import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.di.subcomponent.LoginComponent
 import dagger.BindsInstance
 import dagger.Component
 import javax.inject.Singleton
@@ -16,4 +17,6 @@ interface AppComponent {
         // With @BindsInstance, the Context passed in will be available in the graph
         fun create(@BindsInstance context: Context): AppComponent
     }
+
+    fun loginComponent(): LoginComponent.Factory
 }
