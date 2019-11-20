@@ -13,7 +13,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".extra_code_lab_injection.CarInjectNativeActivity"></activity>
+        <activity android:name=".extra_code_lab_injection.step1.CarInjectNativeActivity"></activity>
         <activity android:name=".code_lab_unit_test.UnitTestCalculatorActivity" />
         <activity android:name=".codelab_room_livedata_viewmodel.NewWordActivity" />
         <activity android:name=".codelab_jobscheduler.JobServiceActivity">

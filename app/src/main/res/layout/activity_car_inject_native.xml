@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/holo_orange_light"
-    tools:context=".extra_code_lab_injection.CarInjectNativeActivity">
+    tools:context=".extra_code_lab_injection.step1.CarInjectNativeActivity">
 
 
     <TextView

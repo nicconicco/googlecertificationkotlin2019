@@ -1,4 +1,4 @@
-package com.noorganization.googlecertificationkotlin.extra_code_lab_injection
+package com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -15,8 +15,12 @@ class CarInjectNativeActivity : AppCompatActivity() {
         car.start()
 
         // Com Injecao nativa
-        val engine = Engine()
-        val carInjected = CarInjectedNative(engine)
+        val engine =
+            Engine()
+        val carInjected =
+            CarInjectedNative(
+                engine
+            )
         carInjected.start()
     }
 }
