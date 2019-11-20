@@ -76,5 +76,9 @@
     <string name="context">Context</string>
     <string name="login_component">Login Component</string>
     <string name="login_component_factory">Login Component Factory</string>
+    <string name="login_module">LoginModule</string>
+    <string name="login_repository">LoginRepositoryModule</string>
+    <string name="login_view_model">LoginViewModelModule</string>
+    <string name="login_data_source">LoginDataSourceModule</string>
 
 </resources>
