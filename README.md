@@ -17,8 +17,8 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 ### Progress:
 
 ```diff
-+ OK 4 - 20%
-- NOK 17 - 80%
++ OK 5 - 25%
+- NOK 16- 75%
 
 Previsão do exame:
 
@@ -31,11 +31,11 @@ Previsão do exame:
 [Codelabs -> Unit tests](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0) : OK\
 [Codelabs -> JobScheduler](https://codelabs.developers.google.com/codelabs/android-training-job-scheduler/index.html#0) : OK\
 [Codelabs -> WorkManager](https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html#11) : OK\
-[Codelabs-> Room, LiveData and ViewModel](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html#0) : OK
+[Codelabs-> Room, LiveData and ViewModel](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html#0) : OK\
+[Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : OK
 
 ---
 
-[Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : NOK\
 [Android Developers -> Application fundamentals](https://developer.android.com/guide/components/fundamentals) : NOK\
 [Android Developers -> Create a notification](https://developer.android.com/training/notify-user/build-notification) : NOK\
 [Codelabs -> Notifications](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) :NOK\
@@ -46,7 +46,6 @@ Previsão do exame:
 [Codelabs -> ViewModel and ViewModelFactory](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html#0) : NOK\
 [Codelabs -> Room with a View](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15) : NOK\
 [Codelabs -> Material Components](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/index.html#0) : NOK\
-[Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : NOK\
 [Codelabs -> Add log statements to your app](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html#7) : NOK\
 [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : NOK\
 [Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : NOK\
