@@ -11,12 +11,12 @@ class PagerAdapter(fm: FragmentManager, numTabs: Int) : FragmentStatePagerAdapte
         this.mNumOfTabs = numTabs
     }
 
-    override fun getItem(position: Int): Fragment? {
+    override fun getItem(position: Int): Fragment {
         return when (position) {
             0 -> TabFragment1()
             1 -> TabFragment2()
             2 -> TabFragment3()
-            else -> null
+            else -> TabFragment3()
         }
     }
 

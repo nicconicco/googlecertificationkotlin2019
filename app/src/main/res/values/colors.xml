@@ -7,4 +7,5 @@
     <color name="colorTextPrimary">@android:color/white</color>
     <color name="colorScreenBackground">#fff3e0</color>
     <color name="colorTextHint">#E0E0E0</color>
+    <color name="buttonLabel">#d3d3d3</color>
 </resources>
