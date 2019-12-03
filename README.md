@@ -39,7 +39,7 @@ Previsão do exame:
 [Codelabs -> JobScheduler](https://codelabs.developers.google.com/codelabs/android-training-job-scheduler/index.html#0) : OK\
 [Codelabs -> WorkManager](https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html#11) : OK\
 [Codelabs-> Room, LiveData and ViewModel](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html#0) : OK\
-[Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : OK
+[Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : OK\
 [Codelabs -> Room with Coroutines and Espresso unit test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15) : OK
 
 ---
