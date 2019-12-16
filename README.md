@@ -48,7 +48,7 @@ Previsão do exame:
 [Android Developers -> Create a notification](https://developer.android.com/training/notify-user/build-notification) : NOK - optional\
 [Codelabs -> Notifications](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) :NOK\
 [Android Developers -> Shared preferences](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) : NOK - optional\
-[Codelabs -> Repository](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) : NOK\
+[Codelabs -> Repository](https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/#0) : NOK\
 [Codelabs -> Shared preferences](https://codelabs.developers.google.com/codelabs/android-training-shared-preferences/index.html#0) : NOK\
 [Codelabs -> App settings](https://codelabs.developers.google.com/codelabs/android-training-adding-settings-to-app/index.html#0) : NOK\
 [Codelabs -> ViewModel and ViewModelFactory](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html#0) : NOK\
