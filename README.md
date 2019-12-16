@@ -70,7 +70,7 @@ Previsão do exame:
 ## License
 
 ```
-Copyright 2013 Carlos Nicolau Galves / Caio Ferrari
+Copyright 2019 - Carlos Nicolau Galves / Caio Ferrari
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
