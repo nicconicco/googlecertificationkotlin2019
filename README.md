@@ -19,8 +19,8 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 ```diff
 Focando nos Codelab:
 
-+ OK 6 - 40%
-- NOK 9 - 60%
++ OK 6 - 38%
+- NOK 10 - 62%
 
 Opcional para estudo:
 
@@ -56,7 +56,9 @@ Previsão do exame:
 [Codelabs -> Add log statements to your app](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html#7) : NOK\
 [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : NOK\
 [Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : NOK\
-[Android Developers -> Guide to app architecture ](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) : NOK - optional
+[Android Developers -> Guide to app architecture ](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) : NOK - optional\
+[Android Developers -> WorkManager ](https://codelabs.developers.google.com/codelabs/kotlin-android-training-work-manager/#5) : NOK 
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
