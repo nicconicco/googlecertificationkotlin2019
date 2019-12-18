@@ -17,7 +17,8 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".codelab_room_coroutines.NewWordActivity"></activity>
-        <activity android:name=".codelab_room_coroutines.RoomCoroutinesActivity">
+        <activity android:name=".codelab_room_coroutines.RoomCoroutinesActivity"/>
+        <activity android:name=".codelab_workmanager_mvvm_repository.devbyteviewer.ui.DevByteActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
