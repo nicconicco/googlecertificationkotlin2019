@@ -19,8 +19,8 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 ```diff
 Focando nos Codelab:
 
-+ OK 6 - 40%
-- NOK 9 - 60%
++ OK 6 - 38%
+- NOK 10 - 62%
 
 Opcional para estudo:
 
@@ -48,7 +48,7 @@ Previsão do exame:
 [Android Developers -> Create a notification](https://developer.android.com/training/notify-user/build-notification) : NOK - optional\
 [Codelabs -> Notifications](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) :NOK\
 [Android Developers -> Shared preferences](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) : NOK - optional\
-[Codelabs -> Repository](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) : NOK\
+[Codelabs -> Repository](https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/#0) : NOK\
 [Codelabs -> Shared preferences](https://codelabs.developers.google.com/codelabs/android-training-shared-preferences/index.html#0) : NOK\
 [Codelabs -> App settings](https://codelabs.developers.google.com/codelabs/android-training-adding-settings-to-app/index.html#0) : NOK\
 [Codelabs -> ViewModel and ViewModelFactory](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html#0) : NOK\
@@ -56,10 +56,36 @@ Previsão do exame:
 [Codelabs -> Add log statements to your app](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html#7) : NOK\
 [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : NOK\
 [Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : NOK\
-[Android Developers -> Guide to app architecture ](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) : NOK - optional
+[Android Developers -> Guide to app architecture ](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) : NOK - optional\
+[Android Developers -> WorkManager ](https://codelabs.developers.google.com/codelabs/kotlin-android-training-work-manager/#5) : NOK 
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## Extras:
 
-[Codelab sobre DI no Android ] - medium.com/@nicolaugalves daqui uns dias.
+[Codelab sobre DI no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/main/java/com/noorganization/googlecertificationkotlin/extra_code_lab_injection) : Em uns dias no medium.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## License
+
+```
+Copyright 2019 - Carlos Nicolau Galves / Caio Ferrari
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+```
+
+
