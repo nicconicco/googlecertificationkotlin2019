@@ -49,9 +49,8 @@ class AddEditTaskFragment : Fragment() {
         val root = inflater.inflate(R.layout.addtask_frag, container, false)
         viewDataBinding = AddtaskFragBinding.bind(root).apply {
             this.viewmodel = viewModel
+            lifecycleOwner = this.lifecycleOwner
         }
-        // Set the lifecycle owner to the lifecycle of the view
-//        viewDataBinding.viewLifecycleOwner = this.viewLifecycleOwner
         return viewDataBinding.root
     }
 
