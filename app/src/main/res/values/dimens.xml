@@ -11,4 +11,9 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="small_padding">6dp</dimen>
     <dimen name="big_padding">16dp</dimen>
+
+    <dimen name="list_item_padding">8dp</dimen>
+    <dimen name="header_height">192dp</dimen>
+    <dimen name="header_padding">16dp</dimen>
+    <dimen name="header_image_width">100dp</dimen>
 </resources>

@@ -4,9 +4,9 @@ import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
+import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.noorganization.googlecertificationkotlin.R
@@ -16,13 +16,11 @@ import kotlinx.android.synthetic.main.activity_room_coroutines.*
 class RoomCoroutinesActivity : AppCompatActivity() {
 
     private val newWordActivityRequestCode = 1
-    private lateinit var wordViewModel: WordCoroutinesViewModel
+    private val wordViewModel by viewModels<WordCoroutinesViewModel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_room_coroutines)
-
-        wordViewModel = ViewModelProvider(this).get(WordCoroutinesViewModel::class.java)
 
         val adapter = WordListAdapter(this)
         recyclerview.adapter = adapter

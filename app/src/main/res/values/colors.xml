@@ -12,4 +12,9 @@
     <color name="background_grey">#ffDDDDDD</color>
     <color name="text_light">#ff666666</color>
     <color name="text_black">#ff222222</color>
+    <color name="colorGrey">#757575</color>
+
+    <drawable name="completedTaskBackground">#CCCCCC</drawable>
+
+    <drawable name="touchFeedback">#CFD8DC</drawable>
 </resources>
