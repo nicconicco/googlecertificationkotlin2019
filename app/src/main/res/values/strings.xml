@@ -188,6 +188,12 @@
     <!-- Content Descriptions -->
     <string name="tasks_header_image_content_description">Tasks header image</string>
     <string name="no_tasks_image_content_description">No tasks image</string>
+    <string name="prompt_email">Email vazio</string>
+    <string name="prompt_password">Digite o password</string>
+    <string name="action_sign_in_short">Faca o login</string>
+    <string name="action_sign_in">Login</string>
+    <string name="fake_implement">Fake implement</string>
+    <string name="espresso_dagger_works">Fake implements works!</string>
 
 
 </resources>

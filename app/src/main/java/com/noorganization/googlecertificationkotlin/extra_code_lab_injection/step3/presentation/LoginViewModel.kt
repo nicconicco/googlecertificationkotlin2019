@@ -14,6 +14,8 @@ class LoginViewModel @Inject constructor(private val repository: LoginRepository
     fun doLogin() {
         if(repository.doLogin()) {
             _loginState.value = LoginSuccess
+        } else {
+            _loginState.value = LoginError
         }
     }
 }
