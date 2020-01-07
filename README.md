@@ -19,8 +19,8 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 ```diff
 Focando nos Codelab:
 
-+ OK 6 - 38%
-- NOK 10 - 62%
++ OK 8 - 50%
+- NOK 8 - 50%
 
 Opcional para estudo:
 
@@ -29,7 +29,7 @@ Opcional para estudo:
 
 Previsão do exame:
 
-18 de dezembro - 2019
+15 de janeiro - 2020
 ```
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,9 @@ Previsão do exame:
 [Codelabs -> WorkManager](https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html#11) : OK\
 [Codelabs-> Room, LiveData and ViewModel](https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/index.html#0) : OK\
 [Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : OK\
-[Codelabs -> Room with Coroutines and Espresso unit test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15) : OK
+[Codelabs -> Room with Coroutines and Espresso unit test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15) : OK\
+[Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : OK\
+[Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : OK\
 
 ---
 
@@ -54,8 +56,6 @@ Previsão do exame:
 [Codelabs -> ViewModel and ViewModelFactory](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html#0) : NOK\
 [Codelabs -> Material Components](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/index.html#0) : NOK\
 [Codelabs -> Add log statements to your app](https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html#7) : NOK\
-[Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : NOK\
-[Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : NOK\
 [Android Developers -> Guide to app architecture ](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) : NOK - optional\
 [Android Developers -> WorkManager ](https://codelabs.developers.google.com/codelabs/kotlin-android-training-work-manager/#5) : NOK 
 
@@ -64,7 +64,8 @@ Previsão do exame:
 
 ## Extras:
 
-[Codelab sobre DI no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/main/java/com/noorganization/googlecertificationkotlin/extra_code_lab_injection) : Em uns dias no medium.
+[Codelab sobre DI no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/main/java/com/noorganization/googlecertificationkotlin/extra_code_lab_injection) : Em uns dias no medium. OK\
+[Codelab sobre DI e Espresso no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/androidTest/java/com/noorganization/googlecertificationkotlin/dagger) : Em uns dias no medium. OK
 
 
 ---------------------------------------------------------------------------------------------------------------------------
