@@ -14,18 +14,20 @@
  * limitations under the License.
  */
 
-package com.noorganization.googlecertificationkotlin.dagger.di
+package com.example.android.architecture.blueprints.todoapp.data.source.local
 
-import com.noorganization.googlecertificationkotlin.dagger.fake_domain.LoginRepositoryFakeImp
-import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step3.data.repository.LoginRepository
-import dagger.Binds
-import dagger.Module
+import androidx.room.Database
+import androidx.room.RoomDatabase
+import com.example.android.architecture.blueprints.todoapp.data.Task
+import com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.data.source.local.TasksDao
 
-// Overrides StorageModule in android tests
-@Module
-abstract class RepositoryFakeModule {
+/**
+ * The Room Database that contains the Task table.
+ *
+ * Note that exportSchema should be true in production databases.
+ */
+@Database(entities = [Task::class], version = 1, exportSchema = false)
+abstract class ToDoDatabase : RoomDatabase() {
 
-    // Makes Dagger provide FakeStorage when a Storage type is requested
-    @Binds
-    abstract fun provideRepositoryFake(repositoryFake: LoginRepositoryFakeImp): LoginRepository
+    abstract fun taskDao(): TasksDao
 }

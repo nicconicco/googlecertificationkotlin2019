@@ -37,6 +37,10 @@ android {
         enabled = true
         enabledForTests = true
     }
+
+    testOptions.unitTests {
+        includeAndroidResources = true
+    }
 }
 
 dependencies {
@@ -139,4 +143,18 @@ dependencies {
 
     // fragment helper
     implementation "androidx.fragment:fragment-ktx:1.2.0-rc04"
+
+    // Dependencies for local unit tests
+    testImplementation "junit:junit:4.12"
+    testImplementation "org.hamcrest:hamcrest-all:1.3"
+    testImplementation "androidx.arch.core:core-testing:2.0.0"
+    testImplementation "org.robolectric:robolectric:4.3.1"
+
+    // AndroidX Test - JVM testing
+    testImplementation "androidx.test:core-ktx:1.2.0"
+    testImplementation "androidx.test.ext:junit:1.1.1"
+
+    // AndroidX Test - Instrumented testing
+    androidTestImplementation "androidx.test.ext:junit:1.1.1"
+    androidTestImplementation "androidx.test.espresso:espresso-core:3.2.0-beta01"
 }

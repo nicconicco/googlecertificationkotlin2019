@@ -24,7 +24,7 @@
 
         <variable
             name="viewmodel"
-            type="com.noorganization.googlecertificationkotlin.codelab_mockito.taskdetail.TaskDetailViewModel" />
+            type="com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.taskdetail.TaskDetailViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -33,7 +33,7 @@
         android:layout_height="match_parent">
 
 
-        <com.noorganization.googlecertificationkotlin.codelab_mockito.ScrollChildSwipeRefreshLayout
+        <com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.ScrollChildSwipeRefreshLayout
             android:id="@+id/refresh_layout"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -110,7 +110,7 @@
 
                 </RelativeLayout>
             </LinearLayout>
-        </com.noorganization.googlecertificationkotlin.codelab_mockito.ScrollChildSwipeRefreshLayout>
+        </com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.ScrollChildSwipeRefreshLayout>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/edit_task_fab"

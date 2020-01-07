@@ -26,7 +26,7 @@
 
         <variable
             name="viewmodel"
-            type="com.noorganization.googlecertificationkotlin.codelab_mockito.tasks.TasksViewModel" />
+            type="com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.tasks.TasksViewModel" />
     </data>
 
     <LinearLayout

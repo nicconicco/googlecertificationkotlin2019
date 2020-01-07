@@ -194,6 +194,15 @@
     <string name="action_sign_in">Login</string>
     <string name="fake_implement">Fake implement</string>
     <string name="espresso_dagger_works">Fake implements works!</string>
+    <string name="phonenumber_label">Phone number label</string>
+    <string name="nothing_entered">Nothing entenred</string>
+    <string name="hint_phonenumber">Hint ponhenumber</string>
 
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 
 </resources>
