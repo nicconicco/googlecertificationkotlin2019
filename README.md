@@ -64,8 +64,8 @@ Previsão do exame:
 
 ## Extras:
 
-[Codelab sobre DI no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/main/java/com/noorganization/googlecertificationkotlin/extra_code_lab_injection) : Em uns dias no medium. OK\
-[Codelab sobre DI e Espresso no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/androidTest/java/com/noorganization/googlecertificationkotlin/dagger) : Em uns dias no medium. OK
+[Codelab sobre DI , Dagger.Android e Koin ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/main/java/com/noorganization/googlecertificationkotlin/extra_code_lab_injection) : Em uns dias no medium. OK\
+[Codelab sobre Dagger.Android e Espresso no Android ](https://github.com/nicconicco/googlecertificationkotlin2019/tree/master/app/src/androidTest/java/com/noorganization/googlecertificationkotlin/dagger) : Em uns dias no medium. OK
 
 
 ---------------------------------------------------------------------------------------------------------------------------
