@@ -42,7 +42,7 @@ Previsão do exame:
 [Codelabs -> User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation/index.html#0) : OK\
 [Codelabs -> Room with Coroutines and Espresso unit test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15) : OK\
 [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : OK\
-[Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : OK\
+[Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : OK
 
 ---
 
