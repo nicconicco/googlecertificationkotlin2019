@@ -43,9 +43,9 @@ Previsão do exame:
 [Codelabs -> Room with Coroutines and Espresso unit test](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#15) : OK\
 [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0) : OK\
 [Codelabs -> Android Testing -> Espresso for UI testing](https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing/index.html#0) : OK\
-[Android Developers -> Application fundamentals](https://developer.android.com/guide/components/fundamentals) OK\
+[Android Developers -> Application fundamentals](https://developer.android.com/guide/components/fundamentals) : OK\
 [Android Developers -> Create a notification](https://developer.android.com/training/notify-user/build-notification) : OK\
-[Codelabs -> Notifications](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) :NOK\
+[Codelabs -> Notifications](https://codelabs.developers.google.com/codelabs/android-training-notifications/index.html#0) : OK\
 [Codelabs -> Repository](https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/#0) : OK\
 [Codelabs -> Shared preferences](https://codelabs.developers.google.com/codelabs/android-training-shared-preferences/index.html#0) : OK\
 [Codelabs -> ViewModel and ViewModelFactory](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html#0) : OK\
