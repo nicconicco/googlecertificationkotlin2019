@@ -19,7 +19,7 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 ```diff
 Focando nos Codelab:
 
-+ OK 15 - 100%
++ OK 14 - 100%
 - NOK 0 - 0%
 
 Opcional para estudo:
