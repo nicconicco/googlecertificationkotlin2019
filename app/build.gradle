@@ -157,4 +157,10 @@ dependencies {
     // AndroidX Test - Instrumented testing
     androidTestImplementation "androidx.test.ext:junit:1.1.1"
     androidTestImplementation "androidx.test.espresso:espresso-core:3.2.0-beta01"
+
+    //Volley
+    implementation 'com.android.volley:volley:1.1.1'
+
+    //Gson
+    implementation 'com.google.code.gson:gson:2.8.5'
 }

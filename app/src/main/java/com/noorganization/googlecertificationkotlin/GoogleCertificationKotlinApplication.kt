@@ -2,6 +2,7 @@ package com.noorganization.googlecertificationkotlin
 
 import android.app.Application
 import android.os.Build
+import androidx.appcompat.app.AppCompatDelegate
 import androidx.databinding.library.BuildConfig
 import androidx.work.*
 import com.noorganization.googlecertificationkotlin.codelab_workmanager_mvvm_repository.devbyteviewer.work.RefreshDataWorker
@@ -14,6 +15,12 @@ import timber.log.Timber
 import java.util.concurrent.TimeUnit
 
 open class GoogleCertificationKotlinApplication : Application() {
+
+    companion object {
+        lateinit var instance: GoogleCertificationKotlinApplication
+            private set
+    }
+
     private val applicationScope = CoroutineScope(Dispatchers.Default)
 
     // Instance of the AppComponent that will be used by all the Activities in the project
@@ -28,6 +35,10 @@ open class GoogleCertificationKotlinApplication : Application() {
         super.onCreate()
 
         delayedInit()
+
+        instance = this
+
+        AppCompatDelegate.setCompatVectorFromResourcesEnabled(true)
     }
 
     private fun delayedInit() {
