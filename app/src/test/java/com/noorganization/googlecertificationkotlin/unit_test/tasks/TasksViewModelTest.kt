@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.noorganization.googlecertificationkotlin.mockito.tasks
+package com.noorganization.googlecertificationkotlin.unit_test.tasks
 
 import android.os.Build
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.noorganization.googlecertificationkotlin.mockito.getOrAwaitValue
+import com.noorganization.googlecertificationkotlin.unit_test.getOrAwaitValue
 import com.example.android.architecture.blueprints.todoapp.tasks.TasksFilterType
 import com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.tasks.TasksViewModel
 import org.hamcrest.CoreMatchers.*

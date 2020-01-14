@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.noorganization.googlecertificationkotlin.mockito.statistics
+package com.noorganization.googlecertificationkotlin.unit_test.statistics
 
 import com.example.android.architecture.blueprints.todoapp.data.Task
 import com.noorganization.googlecertificationkotlin.codelab_unit_test_livedata_roboletric.statistics.getActiveAndCompletedStats

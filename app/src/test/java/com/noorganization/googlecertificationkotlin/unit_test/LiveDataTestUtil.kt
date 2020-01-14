@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.noorganization.googlecertificationkotlin.mockito
+package com.noorganization.googlecertificationkotlin.unit_test
 
 import androidx.annotation.VisibleForTesting
 import androidx.lifecycle.LiveData
