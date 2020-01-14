@@ -62,7 +62,7 @@ class SharedPreferenceActivity : AppCompatActivity() {
      * @param view The view (Button) that was clicked.
      */
     fun changeBackground(view: View) {
-        val color = (view.getBackground() as ColorDrawable).color
+        val color = (view.background as ColorDrawable).color
         mShowCountTextView!!.setBackgroundColor(color)
         mColor = color
     }
@@ -93,7 +93,7 @@ class SharedPreferenceActivity : AppCompatActivity() {
         // Reset color
         mColor = ContextCompat.getColor(
             this,
-            com.noorganization.googlecertificationkotlin.R.color.default_background
+            R.color.default_background
         )
         mShowCountTextView!!.setBackgroundColor(mColor)
 

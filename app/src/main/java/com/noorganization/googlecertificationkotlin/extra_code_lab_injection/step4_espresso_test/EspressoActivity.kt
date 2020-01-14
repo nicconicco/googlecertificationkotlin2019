@@ -5,7 +5,7 @@ import android.os.Bundle
 import com.noorganization.googlecertificationkotlin.R
 
 class EspressoActivity : AppCompatActivity() {
-
+    // ver onde esta classe eh chamada para verificar o comportamento
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_espresso)
