@@ -16,18 +16,20 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".codelab_notification.NotificationActivity">
+        <activity android:name=".codelab_sharepreference.SharedPreferenceActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".codelab_notification.NotificationActivity"/>
         <activity android:name=".codelab_espresso_onview_ondata.SpinnerEspressoActivity" />
         <activity android:name=".extra_code_lab_injection.step4_espresso_test.EspressoActivity" />
         <activity android:name=".codelab_room_coroutines.NewWordActivity" />
         <activity android:name=".codelab_room_coroutines.RoomCoroutinesActivity" />
-        <activity android:name=".codelab_workmanager_mvvm_repository.devbyteviewer.ui.DevByteActivity"/>
+        <activity android:name=".codelab_workmanager_mvvm_repository.devbyteviewer.ui.DevByteActivity" />
         <activity android:name=".codelab_user_navigation.HamburguerMenuActivity" />
         <activity android:name=".codelab_user_navigation.UserNavigationActivity" />
         <activity
