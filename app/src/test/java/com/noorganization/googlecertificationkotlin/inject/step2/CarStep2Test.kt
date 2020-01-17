@@ -26,7 +26,7 @@ class CarStep2Test {
 
     @Test
     fun Strem_inteiros() {
-        val list = mutableListOf(1, 2, 3, 4, 3, 5, 6, 5, , 8)
+        val list = mutableListOf(1, 2, 3, 4, 3, 5, 6, 5, 6, 8)
         val k = 3
         printDups(list, k)
     }
