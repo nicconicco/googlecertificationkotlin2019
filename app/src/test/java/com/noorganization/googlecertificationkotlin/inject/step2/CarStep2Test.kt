@@ -23,6 +23,42 @@ class CarStep2Test {
         car = Car(Mercedes())
         assertEquals(car.showModelCar(), "Meu modelo é uma Mercedes")
     }
+
+    @Test
+    fun Strem_inteiros() {
+        val list = mutableListOf(1, 2, 3, 4, 3, 5, 6, 5, , 8)
+        val k = 3
+        printDups(list, k)
+    }
+
+    fun printDups(list: MutableList<Int>, k: Int) {
+
+        val listHelper: MutableList<Int> = mutableListOf()
+        val interator = list.iterator()
+        while (interator.hasNext()) {
+            val value = interator.next()
+            updateContador(k, listHelper)
+
+            if (checkDups(listHelper, value)) {
+                print("VALOR = $value\n")
+            }
+            listHelper.add(value)
+        }
+    }
+
+    private fun updateContador(
+        k: Int,
+        listHelper: MutableList<Int>
+    ) {
+        if (listHelper.size == k) {
+            listHelper.removeAt(0)
+        }
+    }
+
+    private fun checkDups(
+        listHelper: MutableList<Int>,
+        value: Int
+    ) = listHelper.contains(value)
 }
 
 class Ferrari : ModelCar {
