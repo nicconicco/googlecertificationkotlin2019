@@ -30,6 +30,12 @@ Opcional para estudo:
 Previsão do exame:
 
 14 de janeiro - 2020
+
+Resultado Passamos, aguardando certificado.
+
+![alt text]https://github.com/nicconicco/googlecertificationkotlin2019/blob/master/app/src/main/java/com/noorganization/certification_completed.png
+
+
 ```
 ---------------------------------------------------------------------------------------------------------------------------
 
