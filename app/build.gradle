@@ -85,9 +85,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
 
     // Lifecycle components
-//    api 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc03'
     implementation "androidx.lifecycle:lifecycle-extensions:2.2.0-rc03"
-//    //noinspection LifecycleAnnotationProcessorWithJava8
     kapt "androidx.lifecycle:lifecycle-compiler:2.2.0-rc03"
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-rc03"
     androidTestImplementation "androidx.arch.core:core-testing:2.1.0"
@@ -163,4 +161,7 @@ dependencies {
 
     //Gson
     implementation 'com.google.code.gson:gson:2.8.5'
+
+    //Mockk
+    testImplementation "io.mockk:mockk:1.9.3"
 }

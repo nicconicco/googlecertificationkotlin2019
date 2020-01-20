@@ -33,10 +33,10 @@ class LoginDaggerActivity : AppCompatActivity() {
 
         loginViewModel.loginState.observe(this, Observer<LoginViewState> { state ->
             when (state) {
-                is LoginSuccess -> {
+                is LoginViewState.LoginSuccess -> {
                     startActivity(Intent(this, CarInjectNativeActivity::class.java))
                 }
-                is LoginError -> {
+                is LoginViewState.LoginError -> {
                     startActivity(Intent(this, EspressoActivity::class.java))
                 }
             }

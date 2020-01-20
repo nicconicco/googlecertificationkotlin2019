@@ -12,14 +12,16 @@ class LoginViewModel @Inject constructor(private val repository: LoginRepository
         get() = _loginState
 
     fun doLogin() {
-        if(repository.doLogin()) {
-            _loginState.value = LoginSuccess
+        if (repository.doLogin()) {
+            _loginState.value = LoginViewState.LoginSuccess
         } else {
-            _loginState.value = LoginError
+            _loginState.value = LoginViewState.LoginError
         }
     }
 }
 
-sealed class LoginViewState
-object LoginSuccess : LoginViewState()
-object LoginError : LoginViewState()
+sealed class LoginViewState {
+    object LoginSuccess : LoginViewState()
+    object LoginError : LoginViewState()
+}
+
