@@ -36,7 +36,11 @@ Previsão do exame:
 Resultado Passamos, aguardando certificado.
 
 
-[Imagem de aguardando certificado ](https://github.com/nicconicco/googlecertificationkotlin2019/blob/master/app/src/main/java/com/noorganization/certification_completed.png) 
+---------------------------------------------------------------------------------------------------------------------------
+
+### Resultado:
+
+![Aguardando certificado sair.](https://github.com/nicconicco/googlecertificationkotlin2019/blob/master/app/src/main/java/com/noorganization/certification_completed.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
