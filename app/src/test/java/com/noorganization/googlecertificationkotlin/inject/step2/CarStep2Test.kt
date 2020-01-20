@@ -1,7 +1,7 @@
 package com.noorganization.googlecertificationkotlin.inject.step2
 
 import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step2.Car
-import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step2.ModelCar
+import com.noorganization.googlecertificationkotlin.extra_code_lab_injection.step2.Engine
 import junit.framework.Assert.assertEquals
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -61,13 +61,13 @@ class CarStep2Test {
     ) = listHelper.contains(value)
 }
 
-class Ferrari : ModelCar {
+class Ferrari : Engine {
     override fun getModel(): String {
         return "Meu modelo é uma Ferrari"
     }
 }
 
-class Mercedes : ModelCar {
+class Mercedes : Engine {
     override fun getModel(): String {
         return "Meu modelo é uma Mercedes"
     }
