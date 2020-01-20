@@ -32,6 +32,7 @@ class ApplicationTest {
     fun runApp() {
         ActivityScenario.launch(LoginDaggerActivity::class.java)
 
+        Thread.sleep(2000)
         onView(withId(R.id.username)).perform(typeText("username"), closeSoftKeyboard())
         onView(withId(R.id.password)).perform(typeText("password"), closeSoftKeyboard())
         onView(withId(R.id.login)).perform(click())
