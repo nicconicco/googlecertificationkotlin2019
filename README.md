@@ -33,14 +33,6 @@ Previsão do exame:
 
 ```
 
-Resultado Passamos, aguardando certificado.
-
-
----------------------------------------------------------------------------------------------------------------------------
-
-### Resultado:
-
-![Aguardando certificado sair.](https://github.com/nicconicco/googlecertificationkotlin2019/blob/master/app/src/main/java/com/noorganization/certification_completed.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
