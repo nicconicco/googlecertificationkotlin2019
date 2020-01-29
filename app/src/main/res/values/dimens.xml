@@ -33,4 +33,9 @@
     <dimen name="shr_staggered_product_grid_card_height_portrait">247dp</dimen>
     <dimen name="shr_staggered_product_grid_card_width_landscape">188dp</dimen>
     <dimen name="shr_staggered_product_grid_card_height_landscape">140dp</dimen>
+    <dimen name="card_side_margin">12dp</dimen>
+    <dimen name="card_bottom_margin">26dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="plant_item_image_height">95dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
 </resources>
