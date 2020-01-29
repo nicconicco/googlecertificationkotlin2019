@@ -19,7 +19,7 @@ https://developers.google.com/certification/associate-android-developer/study-gu
 ```diff
 Focando nos Codelab:
 
-+ OK 14 - 100%
++ OK 15 - 100%
 - NOK 0 - 0%
 
 Opcional para estudo:
@@ -45,7 +45,7 @@ Resultado Passamos, aguardando certificado.
 ---------------------------------------------------------------------------------------------------------------------------
 
 ### Tópicos importante:
-
+[Codelabs -> Flow && Channel](https://codelabs.developers.google.com/codelabs/advanced-kotlin-coroutines/#13) : OK\
 [Codelabs -> Unit tests](https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html#0) : OK\
 [Codelabs -> JobScheduler](https://codelabs.developers.google.com/codelabs/android-training-job-scheduler/index.html#0) : OK\
 [Codelabs -> WorkManager](https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html#11) : OK\
