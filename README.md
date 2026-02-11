@@ -1,4 +1,4 @@
-# googlecertificationkotlin2020
+[DEPRECATED]# googlecertificationkotlin2020
 [PT-BR] Material para estudos para tirar o certificado de Google Developer Android Kotlin em portugues.
 
 Projeto realizado e idealizado por:
